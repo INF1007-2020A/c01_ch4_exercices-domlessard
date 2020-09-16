@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
+hello
 def is_even_len(string: str) -> bool:
     return len(string) % 2 == 0
 
