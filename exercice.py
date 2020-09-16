@@ -15,11 +15,11 @@ def replace_char(string: str, old_char: str, new_char: str) -> str:
 
 
 def get_nb_char(string: str, char: str) -> int:
-    return 
+    return string.count(char)
 
 
 def get_nb_words(sentence: str) -> int:
-    return 0
+    return 
 
 
 def main() -> None:
